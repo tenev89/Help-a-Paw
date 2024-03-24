@@ -1,6 +1,8 @@
 # Test cases
 
-Welcome to the test cases repository for the mobile application "Help a Paw", www.helpapaw.org ! All test cases are located in "Issues".
+Welcome to the test cases repository for the mobile application "Help a Paw", www.helpapaw.org !
+
+## **All test cases are located in _''Issues''_**
 
 ## About
 
